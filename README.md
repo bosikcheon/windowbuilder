@@ -1,3 +1,4 @@
+![행복천](https://raw.githubusercontent.com/bosikcheon/javaGroupSS/refs/heads/master/src/main/webapp/resources/images/main.jpg)
 <h1 align="center">Hi 👋, I'm 홍길동</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
